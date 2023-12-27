@@ -1,0 +1,43 @@
+# Compiled Object files, Static and Dynamic libs (build artifacts)
+*.slo
+*.lo
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Qt-specific build directories
+build*/
+*.pro.user
+*.pro.user.*
+*.qbs/
+*.qbs.user
+*.qbs.user.*
+
+# Generated files
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# IDE-specific files (if using Qt Creator, Visual Studio, etc.)
+*.user
+*.suo
+*.ncb
+*.aps
+*.pdb
+*.vspscc
+*.vssscc
+._*
+*~
+.DS_Store
+Thumbs.db
+
+# CMake build directory
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+cmake_install.cmake
+Makefile
