@@ -34,6 +34,8 @@ qrc_*.cpp
 *~
 .DS_Store
 Thumbs.db
+readme.md.bak
+
 
 # CMake build directory
 CMakeFiles/
