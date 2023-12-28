@@ -1,0 +1,2 @@
+- To split up the code , first go to , right click on the project name > add new header file > meaningful_name.h
+- Then , cut the decoration into there with #include header
